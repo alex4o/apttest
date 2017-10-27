@@ -8,5 +8,5 @@ while 1:
     total = 0
     for num in line.split(" "):
         total += int(num)
-    print("Total: %d (%f%%)" % (total, total * (100.0 / out_of)))
+    print("ksdjgk Total: %d (%f%%)" % (total, total * (100.0 / out_of)))
 
